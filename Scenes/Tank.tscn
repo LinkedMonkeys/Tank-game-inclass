@@ -5,7 +5,7 @@
 [ext_resource path="res://Scenes/Tank.gd" type="Script" id=3]
 
 [node name="Tank" type="Node2D"]
-position = Vector2( 500, 300 )
+position = Vector2( 200, 500 )
 script = ExtResource( 3 )
 
 [node name="Body" type="Sprite" parent="."]
